@@ -1,0 +1,13 @@
+Package: freezerrr
+Title: freezerrr
+Version: 0.0.0.9000
+Authors@R: person('Ben', 'Gowan', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: To help keep track of whats in the freezer
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
